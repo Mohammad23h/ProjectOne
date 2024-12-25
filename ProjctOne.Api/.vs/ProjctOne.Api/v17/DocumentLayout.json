@@ -1,0 +1,1101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projctone.api\\projctone.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|solutionrelative:projctone.api\\projctone.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projctone.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|solutionrelative:projctone.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projctone.api\\controllers\\workoutprogramcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|solutionrelative:projctone.api\\controllers\\workoutprogramcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projctone.api\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|solutionrelative:projctone.api\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projctone.api\\controllers\\trainingsessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|solutionrelative:projctone.api\\controllers\\trainingsessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projctone.api\\controllers\\trainingnutritioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|solutionrelative:projctone.api\\controllers\\trainingnutritioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projctone.api\\controllers\\settingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|solutionrelative:projctone.api\\controllers\\settingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projctone.api\\controllers\\program_exercisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|solutionrelative:projctone.api\\controllers\\program_exercisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projctone.api\\controllers\\profileinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|solutionrelative:projctone.api\\controllers\\profileinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projctone.api\\controllers\\nutritioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|solutionrelative:projctone.api\\controllers\\nutritioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projctone.api\\controllers\\injuriecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|solutionrelative:projctone.api\\controllers\\injuriecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projctone.api\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|solutionrelative:projctone.api\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projctone.api\\controllers\\exercisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|solutionrelative:projctone.api\\controllers\\exercisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projctone.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|solutionrelative:projctone.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projctone.api\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|solutionrelative:projctone.api\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projctone.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|solutionrelative:projctone.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projctone.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|solutionrelative:projctone.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.core\\projectone.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|solutionrelative:projectone.core\\projectone.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projctone.api\\projctone.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|solutionrelative:projctone.api\\projctone.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projctone.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|solutionrelative:projctone.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F16A64D-DC43-4C8E-9511-27B53EBEB64D}|ProjectOne.EF\\ProjectOne.EF.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.ef\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F16A64D-DC43-4C8E-9511-27B53EBEB64D}|ProjectOne.EF\\ProjectOne.EF.csproj|solutionrelative:projectone.ef\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.core\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|solutionrelative:projectone.core\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.core\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|solutionrelative:projectone.core\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.core\\models\\dtosetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|solutionrelative:projectone.core\\models\\dtosetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.core\\models\\dtoinjurie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|solutionrelative:projectone.core\\models\\dtoinjurie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.core\\models\\injuries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|solutionrelative:projectone.core\\models\\injuries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.core\\models\\dtoprofileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|solutionrelative:projectone.core\\models\\dtoprofileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.core\\models\\dtofeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|solutionrelative:projectone.core\\models\\dtofeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.core\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|solutionrelative:projectone.core\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.core\\models\\profileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|solutionrelative:projectone.core\\models\\profileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F16A64D-DC43-4C8E-9511-27B53EBEB64D}|ProjectOne.EF\\ProjectOne.EF.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.ef\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F16A64D-DC43-4C8E-9511-27B53EBEB64D}|ProjectOne.EF\\ProjectOne.EF.csproj|solutionrelative:projectone.ef\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.core\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|solutionrelative:projectone.core\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|solutionrelative:projectone.core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.core\\models\\nutrition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|solutionrelative:projectone.core\\models\\nutrition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.core\\models\\program_exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|solutionrelative:projectone.core\\models\\program_exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.core\\models\\trainingnutrition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|solutionrelative:projectone.core\\models\\trainingnutrition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.core\\models\\trainingsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|solutionrelative:projectone.core\\models\\trainingsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.core\\models\\workoutprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|solutionrelative:projectone.core\\models\\workoutprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.core\\models\\dtotrainingnutrition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|solutionrelative:projectone.core\\models\\dtotrainingnutrition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.core\\models\\dtonutrition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|solutionrelative:projectone.core\\models\\dtonutrition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|solutionrelative:projectone.core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F16A64D-DC43-4C8E-9511-27B53EBEB64D}|ProjectOne.EF\\ProjectOne.EF.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.ef\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F16A64D-DC43-4C8E-9511-27B53EBEB64D}|ProjectOne.EF\\ProjectOne.EF.csproj|solutionrelative:projectone.ef\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F16A64D-DC43-4C8E-9511-27B53EBEB64D}|ProjectOne.EF\\ProjectOne.EF.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.ef\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F16A64D-DC43-4C8E-9511-27B53EBEB64D}|ProjectOne.EF\\ProjectOne.EF.csproj|solutionrelative:projectone.ef\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RepositoryPattern/True/SqlTable/dbo.__EFMigrationsHistory.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713071330_newnn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713071111_newn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713070817_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713070734_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713065844_newn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713065640_newnn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713065419_newn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713065154_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RepositoryPattern/True/SqlTable/dbo.Exercises.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F16A64D-DC43-4C8E-9511-27B53EBEB64D}|ProjectOne.EF\\ProjectOne.EF.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.ef\\migrations\\20240507075632_addbooksandauthorstables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F16A64D-DC43-4C8E-9511-27B53EBEB64D}|ProjectOne.EF\\ProjectOne.EF.csproj|solutionrelative:projectone.ef\\migrations\\20240507075632_addbooksandauthorstables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F16A64D-DC43-4C8E-9511-27B53EBEB64D}|ProjectOne.EF\\ProjectOne.EF.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.ef\\migrations\\20240506143048_inetialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F16A64D-DC43-4C8E-9511-27B53EBEB64D}|ProjectOne.EF\\ProjectOne.EF.csproj|solutionrelative:projectone.ef\\migrations\\20240506143048_inetialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.core\\models\\dtoprogramexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|solutionrelative:projectone.core\\models\\dtoprogramexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.core\\models\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|solutionrelative:projectone.core\\models\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.core\\models\\dtoexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|solutionrelative:projectone.core\\models\\dtoexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.core\\models\\dtoworkoutprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|solutionrelative:projectone.core\\models\\dtoworkoutprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projctone.api\\extentions\\customjwtauthextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C36A538-5773-4EFA-A7C4-01B0D51F64DF}|ProjctOne.Api\\ProjctOne.Api.csproj|solutionrelative:projctone.api\\extentions\\customjwtauthextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|solutionrelative:projectone.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.core\\models\\dtologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|solutionrelative:projectone.core\\models\\dtologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.core\\models\\dtonewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170CE210-313E-4422-ADD5-C1396430138C}|ProjectOne.Core\\ProjectOne.Core.csproj|solutionrelative:projectone.core\\models\\dtonewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F16A64D-DC43-4C8E-9511-27B53EBEB64D}|ProjectOne.EF\\ProjectOne.EF.csproj|c:\\users\\mhammad\\desktop\\projctone.api\\projctone.api\\projectone.ef\\projectone.ef.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F16A64D-DC43-4C8E-9511-27B53EBEB64D}|ProjectOne.EF\\ProjectOne.EF.csproj|solutionrelative:projectone.ef\\projectone.ef.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RepositoryPattern/True/SqlTable/dbo.Books.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RepositoryPattern/True/SqlTable/dbo.Authors.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240707163028_tempmigrat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713071529_newnn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713070853_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrainingSessionController.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Controllers\\TrainingSessionController.cs",
+              "RelativeDocumentMoniker": "ProjctOne.Api\\Controllers\\TrainingSessionController.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Controllers\\TrainingSessionController.cs",
+              "RelativeToolTip": "ProjctOne.Api\\Controllers\\TrainingSessionController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowEoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T08:06:10.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "ProjctOne.Api\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "ProjctOne.Api\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:07:26.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkoutProgramController.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Controllers\\WorkoutProgramController.cs",
+              "RelativeDocumentMoniker": "ProjctOne.Api\\Controllers\\WorkoutProgramController.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Controllers\\WorkoutProgramController.cs",
+              "RelativeToolTip": "ProjctOne.Api\\Controllers\\WorkoutProgramController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAwwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:31:24.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ProjctOne.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Program.cs",
+              "RelativeToolTip": "ProjctOne.Api\\Program.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAuwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:01:33.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjctOne.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api.csproj",
+              "RelativeDocumentMoniker": "ProjctOne.Api\\ProjctOne.Api.csproj",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api.csproj",
+              "RelativeToolTip": "ProjctOne.Api\\ProjctOne.Api.csproj",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T09:22:53.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrainingNutritionController.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Controllers\\TrainingNutritionController.cs",
+              "RelativeDocumentMoniker": "ProjctOne.Api\\Controllers\\TrainingNutritionController.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Controllers\\TrainingNutritionController.cs",
+              "RelativeToolTip": "ProjctOne.Api\\Controllers\\TrainingNutritionController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAA5wDcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T08:30:34.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SettingController.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Controllers\\SettingController.cs",
+              "RelativeDocumentMoniker": "ProjctOne.Api\\Controllers\\SettingController.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Controllers\\SettingController.cs",
+              "RelativeToolTip": "ProjctOne.Api\\Controllers\\SettingController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:45:21.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program_ExerciseController.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Controllers\\Program_ExerciseController.cs",
+              "RelativeDocumentMoniker": "ProjctOne.Api\\Controllers\\Program_ExerciseController.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Controllers\\Program_ExerciseController.cs",
+              "RelativeToolTip": "ProjctOne.Api\\Controllers\\Program_ExerciseController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAQwBQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:39:38.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProfileInfoController.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Controllers\\ProfileInfoController.cs",
+              "RelativeDocumentMoniker": "ProjctOne.Api\\Controllers\\ProfileInfoController.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Controllers\\ProfileInfoController.cs",
+              "RelativeToolTip": "ProjctOne.Api\\Controllers\\ProfileInfoController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAswDYAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:35:18.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NutritionController.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Controllers\\NutritionController.cs",
+              "RelativeDocumentMoniker": "ProjctOne.Api\\Controllers\\NutritionController.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Controllers\\NutritionController.cs",
+              "RelativeToolTip": "ProjctOne.Api\\Controllers\\NutritionController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAswE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T08:09:11.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InjurieController.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Controllers\\InjurieController.cs",
+              "RelativeDocumentMoniker": "ProjctOne.Api\\Controllers\\InjurieController.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Controllers\\InjurieController.cs",
+              "RelativeToolTip": "ProjctOne.Api\\Controllers\\InjurieController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAcwFAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:28:03.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FeedBackController.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Controllers\\FeedBackController.cs",
+              "RelativeDocumentMoniker": "ProjctOne.Api\\Controllers\\FeedBackController.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Controllers\\FeedBackController.cs",
+              "RelativeToolTip": "ProjctOne.Api\\Controllers\\FeedBackController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowCcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:23:41.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExerciseController.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Controllers\\ExerciseController.cs",
+              "RelativeDocumentMoniker": "ProjctOne.Api\\Controllers\\ExerciseController.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Controllers\\ExerciseController.cs",
+              "RelativeToolTip": "ProjctOne.Api\\Controllers\\ExerciseController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAwwDwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:57:04.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "ProjctOne.Api\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "ProjctOne.Api\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAuwD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T13:07:30.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "ProjctOne.Api\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "ProjctOne.Api\\Controllers\\AuthorsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:31:35.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ProjctOne.Api\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ProjctOne.Api\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:31:38.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProjctOne.Api.http",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api.http",
+              "RelativeDocumentMoniker": "ProjctOne.Api\\ProjctOne.Api.http",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api.http",
+              "RelativeToolTip": "ProjctOne.Api\\ProjctOne.Api.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-07T08:37:10.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProjectOne.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\ProjectOne.Core.csproj",
+              "RelativeDocumentMoniker": "ProjectOne.Core\\ProjectOne.Core.csproj",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\ProjectOne.Core.csproj",
+              "RelativeToolTip": "ProjectOne.Core\\ProjectOne.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-03T15:15:14.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProjctOne.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProjctOne.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-30T19:07:33.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjctOne.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\appsettings.json",
+              "RelativeToolTip": "ProjctOne.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-03T15:17:11.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.EF\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "ProjectOne.EF\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.EF\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "ProjectOne.EF\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAnwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T09:15:44.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "ProjectOne.Core\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\Author.cs",
+              "RelativeToolTip": "ProjectOne.Core\\Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:21:34.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "ProjectOne.Core\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "ProjectOne.Core\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAjwBEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T08:05:25.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "dtoSetting.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\dtoSetting.cs",
+              "RelativeDocumentMoniker": "ProjectOne.Core\\Models\\dtoSetting.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\dtoSetting.cs",
+              "RelativeToolTip": "ProjectOne.Core\\Models\\dtoSetting.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:14:37.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "dtoInjurie.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\dtoInjurie.cs",
+              "RelativeDocumentMoniker": "ProjectOne.Core\\Models\\dtoInjurie.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\dtoInjurie.cs",
+              "RelativeToolTip": "ProjectOne.Core\\Models\\dtoInjurie.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:03:49.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Injuries.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\Injuries.cs",
+              "RelativeDocumentMoniker": "ProjectOne.Core\\Models\\Injuries.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\Injuries.cs",
+              "RelativeToolTip": "ProjectOne.Core\\Models\\Injuries.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA2wCAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:57:11.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "dtoProfileInfo.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\dtoProfileInfo.cs",
+              "RelativeDocumentMoniker": "ProjectOne.Core\\Models\\dtoProfileInfo.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\dtoProfileInfo.cs",
+              "RelativeToolTip": "ProjectOne.Core\\Models\\dtoProfileInfo.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwCMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:10:28.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\Setting.cs",
+              "RelativeDocumentMoniker": "ProjectOne.Core\\Models\\Setting.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\Setting.cs",
+              "RelativeToolTip": "ProjectOne.Core\\Models\\Setting.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T08:50:29.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProfileInfo.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\ProfileInfo.cs",
+              "RelativeDocumentMoniker": "ProjectOne.Core\\Models\\ProfileInfo.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\ProfileInfo.cs",
+              "RelativeToolTip": "ProjectOne.Core\\Models\\ProfileInfo.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAcwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:43:43.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "dtoFeedBack.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\dtoFeedBack.cs",
+              "RelativeDocumentMoniker": "ProjectOne.Core\\Models\\dtoFeedBack.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\dtoFeedBack.cs",
+              "RelativeToolTip": "ProjectOne.Core\\Models\\dtoFeedBack.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T08:59:57.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FeedBack.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\FeedBack.cs",
+              "RelativeDocumentMoniker": "ProjectOne.Core\\Models\\FeedBack.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\FeedBack.cs",
+              "RelativeToolTip": "ProjectOne.Core\\Models\\FeedBack.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:21:53.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program_Exercise.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\Program_Exercise.cs",
+              "RelativeDocumentMoniker": "ProjectOne.Core\\Models\\Program_Exercise.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\Program_Exercise.cs",
+              "RelativeToolTip": "ProjectOne.Core\\Models\\Program_Exercise.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:38:16.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Nutrition.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\Nutrition.cs",
+              "RelativeDocumentMoniker": "ProjectOne.Core\\Models\\Nutrition.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\Nutrition.cs",
+              "RelativeToolTip": "ProjectOne.Core\\Models\\Nutrition.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwBEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:26:01.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.EF\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "ProjectOne.EF\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.EF\\UnitOfWork.cs",
+              "RelativeToolTip": "ProjectOne.EF\\UnitOfWork.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAIwDMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:45:24.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TrainingNutrition.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\TrainingNutrition.cs",
+              "RelativeDocumentMoniker": "ProjectOne.Core\\Models\\TrainingNutrition.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\TrainingNutrition.cs",
+              "RelativeToolTip": "ProjectOne.Core\\Models\\TrainingNutrition.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:49:56.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ProjectOne.Core\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "ProjectOne.Core\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA3wB0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:40:23.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TrainingSession.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\TrainingSession.cs",
+              "RelativeDocumentMoniker": "ProjectOne.Core\\Models\\TrainingSession.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\TrainingSession.cs",
+              "RelativeToolTip": "ProjectOne.Core\\Models\\TrainingSession.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T07:29:31.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "WorkoutProgram.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\WorkoutProgram.cs",
+              "RelativeDocumentMoniker": "ProjectOne.Core\\Models\\WorkoutProgram.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\WorkoutProgram.cs",
+              "RelativeToolTip": "ProjectOne.Core\\Models\\WorkoutProgram.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:26:31.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "dtoTrainingNutrition.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\dtoTrainingNutrition.cs",
+              "RelativeDocumentMoniker": "ProjectOne.Core\\Models\\dtoTrainingNutrition.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\dtoTrainingNutrition.cs",
+              "RelativeToolTip": "ProjectOne.Core\\Models\\dtoTrainingNutrition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T08:35:09.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "dtoNutrition.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\dtoNutrition.cs",
+              "RelativeDocumentMoniker": "ProjectOne.Core\\Models\\dtoNutrition.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\dtoNutrition.cs",
+              "RelativeToolTip": "ProjectOne.Core\\Models\\dtoNutrition.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T08:15:15.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "ProjectOne.Core\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\AppUser.cs",
+              "RelativeToolTip": "ProjectOne.Core\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:37:40.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20240713071529_newnn.cs",
+              "DocumentMoniker": "C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713071529_newnn.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713071529_newnn.cs",
+              "ToolTip": "C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713071529_newnn.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713071529_newnn.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwC8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T07:15:29.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20240707163028_tempmigrat.cs",
+              "DocumentMoniker": "C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240707163028_tempmigrat.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240707163028_tempmigrat.cs",
+              "ToolTip": "C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240707163028_tempmigrat.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240707163028_tempmigrat.cs",
+              "ViewState": "AQIAAEcBAAAAAAAAAAAQwE0BAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:54:57.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ProjectOne.EF\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ProjectOne.EF\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAABoCAAAAAAAAAAAAACkCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T07:00:52.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.EF\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProjectOne.EF\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.EF\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProjectOne.EF\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T12:32:57.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20240713070853_new.cs",
+              "DocumentMoniker": "C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713070853_new.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713070853_new.cs",
+              "ToolTip": "C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713070853_new.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713070853_new.cs",
+              "ViewState": "AQIAANUAAAAAAAAAAAAYwKgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T07:08:53.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20240713071330_newnn.cs",
+              "DocumentMoniker": "C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713071330_newnn.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713071330_newnn.cs",
+              "ToolTip": "C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713071330_newnn.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713071330_newnn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T07:13:30.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20240713071111_newn.cs",
+              "DocumentMoniker": "C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713071111_newn.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713071111_newn.cs",
+              "ToolTip": "C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713071111_newn.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713071111_newn.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T07:11:11.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20240713070817_new.cs",
+              "DocumentMoniker": "C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713070817_new.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713070817_new.cs",
+              "ToolTip": "C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713070817_new.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713070817_new.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T07:08:17.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20240713070734_new.cs",
+              "DocumentMoniker": "C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713070734_new.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713070734_new.cs",
+              "ToolTip": "C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713070734_new.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713070734_new.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T07:07:34.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20240713065640_newnn.cs",
+              "DocumentMoniker": "C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713065640_newnn.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713065640_newnn.cs",
+              "ToolTip": "C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713065640_newnn.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713065640_newnn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:56:40.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20240713065844_newn.cs",
+              "DocumentMoniker": "C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713065844_newn.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713065844_newn.cs",
+              "ToolTip": "C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713065844_newn.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713065844_newn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:58:45.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20240713065419_newn.cs",
+              "DocumentMoniker": "C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713065419_newn.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713065419_newn.cs",
+              "ToolTip": "C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713065419_newn.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713065419_newn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:54:19.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20240713065154_new.cs",
+              "DocumentMoniker": "C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713065154_new.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713065154_new.cs",
+              "ToolTip": "C:\\Users\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713065154_new.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\RTX\\source\\repos\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240713065154_new.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:51:54.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20240507075632_AddBooksAndAuthorsTables.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240507075632_AddBooksAndAuthorsTables.cs",
+              "RelativeDocumentMoniker": "ProjectOne.EF\\Migrations\\20240507075632_AddBooksAndAuthorsTables.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240507075632_AddBooksAndAuthorsTables.cs",
+              "RelativeToolTip": "ProjectOne.EF\\Migrations\\20240507075632_AddBooksAndAuthorsTables.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T07:56:32.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20240506143048_InetialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240506143048_InetialCreate.cs",
+              "RelativeDocumentMoniker": "ProjectOne.EF\\Migrations\\20240506143048_InetialCreate.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.EF\\Migrations\\20240506143048_InetialCreate.cs",
+              "RelativeToolTip": "ProjectOne.EF\\Migrations\\20240506143048_InetialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:30:48.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "dtoProgramExercise.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\dtoProgramExercise.cs",
+              "RelativeDocumentMoniker": "ProjectOne.Core\\Models\\dtoProgramExercise.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\dtoProgramExercise.cs",
+              "RelativeToolTip": "ProjectOne.Core\\Models\\dtoProgramExercise.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:52:35.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "dtoExercise.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\dtoExercise.cs",
+              "RelativeDocumentMoniker": "ProjectOne.Core\\Models\\dtoExercise.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\dtoExercise.cs",
+              "RelativeToolTip": "ProjectOne.Core\\Models\\dtoExercise.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:31:39.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Exercise.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\Exercise.cs",
+              "RelativeDocumentMoniker": "ProjectOne.Core\\Models\\Exercise.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\Exercise.cs",
+              "RelativeToolTip": "ProjectOne.Core\\Models\\Exercise.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:33:44.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "dtoWorkoutProgram.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\dtoWorkoutProgram.cs",
+              "RelativeDocumentMoniker": "ProjectOne.Core\\Models\\dtoWorkoutProgram.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\dtoWorkoutProgram.cs",
+              "RelativeToolTip": "ProjectOne.Core\\Models\\dtoWorkoutProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:37:37.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CustomJwtAuthExtention.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Extentions\\CustomJwtAuthExtention.cs",
+              "RelativeDocumentMoniker": "ProjctOne.Api\\Extentions\\CustomJwtAuthExtention.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjctOne.Api\\Extentions\\CustomJwtAuthExtention.cs",
+              "RelativeToolTip": "ProjctOne.Api\\Extentions\\CustomJwtAuthExtention.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwBkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T13:00:41.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "dtoNewUser.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\dtoNewUser.cs",
+              "RelativeDocumentMoniker": "ProjectOne.Core\\Models\\dtoNewUser.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\dtoNewUser.cs",
+              "RelativeToolTip": "ProjectOne.Core\\Models\\dtoNewUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:21:29.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "ProjectOne.Core\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\Book.cs",
+              "RelativeToolTip": "ProjectOne.Core\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:21:32.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "dtoLogin.cs",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\dtoLogin.cs",
+              "RelativeDocumentMoniker": "ProjectOne.Core\\Models\\dtoLogin.cs",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.Core\\Models\\dtoLogin.cs",
+              "RelativeToolTip": "ProjectOne.Core\\Models\\dtoLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:01:18.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ProjectOne.EF.csproj",
+              "DocumentMoniker": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.EF\\ProjectOne.EF.csproj",
+              "RelativeDocumentMoniker": "ProjectOne.EF\\ProjectOne.EF.csproj",
+              "ToolTip": "C:\\Users\\mhammad\\Desktop\\ProjctOne.Api\\ProjctOne.Api\\ProjectOne.EF\\ProjectOne.EF.csproj",
+              "RelativeToolTip": "ProjectOne.EF\\ProjectOne.EF.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-03T15:09:18.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "dbo.__EFMigrationsHistory [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RepositoryPattern/True/SqlTable/dbo.__EFMigrationsHistory.sql",
+              "ToolTip": "dbo.__EFMigrationsHistory [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-13T07:19:47.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "dbo.Exercises [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RepositoryPattern/True/SqlTable/dbo.Exercises.sql",
+              "ToolTip": "dbo.Exercises [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-08T11:04:18.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "dbo.Books [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RepositoryPattern/True/SqlTable/dbo.Books.sql",
+              "ToolTip": "dbo.Books [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-07T09:01:09.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "dbo.Authors [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RepositoryPattern/True/SqlTable/dbo.Authors.sql",
+              "ToolTip": "dbo.Authors [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-07T13:01:41.596Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
